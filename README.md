@@ -1,7 +1,7 @@
 # Introduction to Machine Learning
 ## The course is held at FEI, VSB-TU Ostrava
 
-Feel free to contact me (<radek.svoboda@vsb.cz>) if you have any questions or want to discuss any topic from the course 😊
+Feel free to contact me (<radek.svoboda@vsb.cz> or office EA404, FEI) if you have any questions or want to discuss any topic from the course 😊
 
 # 📊 Exercises
 ## Exercise 1
