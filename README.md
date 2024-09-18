@@ -18,7 +18,22 @@ The aim of the exercise is to learn basic techniques for visualization creation 
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_02.ipynb)
 
+### More advanced concepts like subplots, correlation matrices can be found in Jupyters below
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_02_advanced.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_02_advanced.ipynb)
+
+
 # 💡 Notes
+## Cheat sheet for Pandas and Matplotlib/Seaborn
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_cheat_sheet.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_cheat_sheet.ipynb)
+
+
+
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
 ```
