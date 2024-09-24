@@ -24,6 +24,12 @@ The aim of the exercise is to learn basic techniques for visualization creation 
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_02_advanced.ipynb)
 
+## Exercise 3
+The aim of the exercise is to learn how to use distance metrics and k-NN classifier.
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_03.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_03.ipynb)
 
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
