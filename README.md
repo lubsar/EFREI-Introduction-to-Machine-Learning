@@ -31,6 +31,13 @@ The aim of the exercise is to learn how to use distance metrics and k-NN classif
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_03.ipynb)
 
+## Exercise 4
+Goal of the excercise is to learn how to use Scikit-learn library for a regression tasks employing various linear regression models and moreover evaluate the performance of the proposed models.
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_04.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_04.ipynb)
+
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
 
