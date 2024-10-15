@@ -3,6 +3,19 @@
 
 Feel free to contact me (<radek.svoboda@vsb.cz> or office EA404, FEI) if you have any questions or want to discuss any topic from the course 😊
 
+# 📌 Important news
+* In the lecture on the **30th October** there will be a **exam** and **project** will be assigned
+* Exam will take **45 - 60 minutes** and it is a written exam (paper, no internet)
+
+The skills to be assessed:
+* Ability to differen9ate between supervised and unsupervised learning based on examples of scenarios
+* Ability to apply linear regression to predict outcomes, analyze and assess model performance
+* Ability to apply KMeans clustering on a dataset and determine the op9mal number of clusters
+* Ability to interpret and present the clustering result
+* Ability to implement KNN on a dataset considering appropriate parameters (e.g., k)
+
+* 💡 We will go through some examples of such tasks in the next lecture 😊
+
 # 📊 Exercises
 ## Exercise 1
 The aim of the exercise is to get an overview of the basic capabilities of the Pandas, Matplotlib and Seaborn libraries and be able to setup a Python Virtual Enviroment (`venv`)
@@ -37,6 +50,13 @@ Goal of the excercise is to learn how to use Scikit-learn library for a regressi
 > [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_04.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_04.ipynb)
+
+## Exercise 5
+Goal of the excercise is to learn how to use **K-means** implementation in the Scikit-learn library to perform clustering and subsequent cluster analysis on a Titanic dataset.
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_05.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_05.ipynb)
 
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
