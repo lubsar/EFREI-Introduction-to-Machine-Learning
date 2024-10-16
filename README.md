@@ -8,9 +8,9 @@ Feel free to contact me (<radek.svoboda@vsb.cz> or office EA404, FEI) if you hav
 * Exam will take **45 - 60 minutes** and it is a written exam (paper, no internet)
 
 The skills to be assessed:
-* Ability to differen9ate between supervised and unsupervised learning based on examples of scenarios
+* Ability to differentiate between supervised and unsupervised learning based on examples of scenarios
 * Ability to apply linear regression to predict outcomes, analyze and assess model performance
-* Ability to apply KMeans clustering on a dataset and determine the op9mal number of clusters
+* Ability to apply KMeans clustering on a dataset and determine the optimal number of clusters
 * Ability to interpret and present the clustering result
 * Ability to implement KNN on a dataset considering appropriate parameters (e.g., k)
 

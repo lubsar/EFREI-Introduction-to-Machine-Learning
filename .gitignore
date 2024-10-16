@@ -160,4 +160,6 @@ kaggle/kaggle_prep.ipynb
 
 *.sqlite3
 *.bin
+*.docx
+exam_real.pdf
 
