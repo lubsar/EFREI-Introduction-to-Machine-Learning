@@ -14,7 +14,7 @@ The skills to be assessed:
 * Ability to interpret and present the clustering result
 * Ability to implement KNN on a dataset considering appropriate parameters (e.g., k)
 
-* 💡 We will go through some [examples]() of such tasks in the next lecture 😊
+* 💡 We will go through some [examples](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/misc/example_exam.pdf) of such tasks in the next lecture 😊
 
 # 📊 Exercises
 ## Exercise 1
