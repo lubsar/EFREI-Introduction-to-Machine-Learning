@@ -52,11 +52,18 @@ Goal of the excercise is to learn how to use Scikit-learn library for a regressi
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_04.ipynb)
 
 ## Exercise 5
-Goal of the excercise is to learn how to use **K-means** implementation in the Scikit-learn library to perform clustering and subsequent cluster analysis on a Titanic dataset.
+Goal of the excercise is to learn how to use K-means implementation in the Scikit-learn library to perform clustering and subsequent cluster analysis on a Titanic dataset.
 
 > [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_05.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_05.ipynb)
+
+## Exercise 6
+We will learn how to use another clustering algorithm - Hierarchical (or Agglomerative) clustering. 
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_06.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_06.ipynb)
 
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
