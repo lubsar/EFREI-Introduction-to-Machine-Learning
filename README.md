@@ -3,6 +3,11 @@
 
 Feel free to contact me (<radek.svoboda@vsb.cz> or office EA404, FEI) if you have any questions or want to discuss any topic from the course 😊
 
+# Data Classification Project Information
+* You can get up to **30** points
+* Project are done in groups of 3 students
+* [Click here](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/cls_project.md) for the details
+
 # 📌 Important news
 * In the lecture on the **30th October** there will be a **exam** and **project** will be assigned
 * Exam will take **45 - 60 minutes** and it is a written exam (paper, no internet)
