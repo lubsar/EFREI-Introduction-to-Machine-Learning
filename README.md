@@ -7,6 +7,7 @@ Feel free to contact me (<radek.svoboda@vsb.cz> or office EA404, FEI) if you hav
 * You can get up to **30** points
 * Project are done in **groups of 3** students
   * 🎯 **Put your name into a group in which you want to be** in this [Google Sheet](https://docs.google.com/spreadsheets/d/1MBWVYLONwAmUPO5GywCn9Fh7V_TZXgUlVL4jz-7E_Sk/edit?usp=sharing)
+  * **Deadline: 6. 11. 2024**
 * 💡 [Click here for the details](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/cls_project.md) 
 
 # 📌 Important news
