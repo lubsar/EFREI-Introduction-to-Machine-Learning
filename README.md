@@ -3,7 +3,7 @@
 
 Feel free to contact me (<radek.svoboda@vsb.cz> or office EA404, FEI) if you have any questions or want to discuss any topic from the course 😊
 
-# Exam scores
+# 📌 Exam scores
 * [Check your score here](https://docs.google.com/spreadsheets/d/14CPzyo5fXx_LViv-ylz3LtUPMG2OFdYAKWxjcfeNPGI/edit?usp=sharing)
 
 # 📌 Data Classification Project Information
