@@ -75,6 +75,15 @@ We will learn how to use another clustering algorithm - Hierarchical (or Agglome
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_06.ipynb)
 
+<!-- ## Exercise 7
+Goal of the excercise is to code selected part of the Decision tree algorithm which is focused on the optimum split part using gini index. 
+
+After that the scikit-learn implementation of the Decision tree basic usage will be demonstrated.
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_07.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_07.ipynb) -->
+
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
 
