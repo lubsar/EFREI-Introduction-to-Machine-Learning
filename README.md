@@ -3,28 +3,14 @@
 
 Feel free to contact me (<radek.svoboda@vsb.cz> or office EA404, FEI) if you have any questions or want to discuss any topic from the course 😊
 
-# 📌 Exam scores
-* [Check your score here](https://docs.google.com/spreadsheets/d/14CPzyo5fXx_LViv-ylz3LtUPMG2OFdYAKWxjcfeNPGI/edit?usp=sharing)
-
 # 📌 Data Classification Project Information
 * You can get up to **30** points
 * Project are done in **groups of 3** students
   * 🎯 **Put your name into a group in which you want to be** in this [Google Sheet](https://docs.google.com/spreadsheets/d/1MBWVYLONwAmUPO5GywCn9Fh7V_TZXgUlVL4jz-7E_Sk/edit?usp=sharing)
-  * **Deadline: 6. 11. 2024**
 * 💡 [Click here for the details](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/cls_project.md)
 
-# 📌 Important news
-* In the lecture on the **30th October** there will be a **exam** and **project** will be assigned
-* Exam will take **45 - 60 minutes** and it is a written exam (paper, no internet)
-
-The skills to be assessed:
-* Ability to differentiate between supervised and unsupervised learning based on examples of scenarios
-* Ability to apply linear regression to predict outcomes, analyze and assess model performance
-* Ability to apply KMeans clustering on a dataset and determine the optimal number of clusters
-* Ability to interpret and present the clustering result
-* Ability to implement KNN on a dataset considering appropriate parameters (e.g., k)
-
-* 💡 We will go through some [examples](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/misc/example_exam.pdf) of such tasks in the next lecture 😊
+# 📌 Exam scores
+* [Check your score here](https://docs.google.com/spreadsheets/d/14CPzyo5fXx_LViv-ylz3LtUPMG2OFdYAKWxjcfeNPGI/edit?usp=sharing)
 
 # 📊 Exercises
 ## Exercise 1
