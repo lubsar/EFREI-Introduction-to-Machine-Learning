@@ -70,6 +70,13 @@ After that the scikit-learn implementation of the Decision tree basic usage will
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_07.ipynb)
 
+## Exercise 8
+Goal of the excercise is to learn how to use Scikit-learn library for a classification tasks and evaluate the performance of the proposed models.
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_08.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_08.ipynb)
+
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
 
