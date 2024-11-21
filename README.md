@@ -77,6 +77,13 @@ Goal of the excercise is to learn how to use Scikit-learn library for a classifi
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_08.ipynb)
 
+## Exercise 9
+Goal of the excercise is to learn how to use basic deep learning models in Scikit-learn and Keras.
+
+> [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_09.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_09.ipynb)
+
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
 
