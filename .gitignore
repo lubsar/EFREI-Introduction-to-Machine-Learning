@@ -163,4 +163,5 @@ kaggle/kaggle_prep.ipynb
 *.docx
 *.tmp
 exam_real.pdf
+best.weights.h5
 
