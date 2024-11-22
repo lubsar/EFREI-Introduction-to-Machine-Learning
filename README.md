@@ -85,7 +85,15 @@ Goal of the excercise is to learn how to use basic deep learning models in Sciki
 > [Google Colab](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_09.ipynb)
 
 <!-- ## Exercise 10
-Goal of the excercise is to learn how to save trained models and use selected advanced libraries like Plotly or Optuna.
+Goal of the excercise is to learn how to save trained models and use selected advanced libraries like Plotly or Optuna and we will also do a refresh of classfication and regression tasks.
+
+> [Jupyter Notebook - Regression](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_10_regression.ipynb)
+
+> [Google Colab - Regression](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_10_regression.ipynb)
+
+> [Jupyter Notebook - Classisication](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_10_classisication.ipynb)
+
+> [Google Colab - Classisication](https://colab.research.google.com/github/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_10_classisication.ipynb)
 
 > [Jupyter Notebook](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_10.ipynb)
 
