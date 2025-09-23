@@ -18,11 +18,6 @@ The aim of the exercise is to learn basic techniques for visualization creation 
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_02.ipynb)
 
-### More advanced concepts like subplots or correlation matrices can be found in Jupyter notebook below
-
-> [Jupyter Notebook](https://github.com/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_02_advanced.ipynb)
-
-> [Google Colab](https://colab.research.google.com/github/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_02_advanced.ipynb)
 
 ## Exercise 3
 The aim of the exercise is to learn how to use distance metrics and k-NN classifier.
