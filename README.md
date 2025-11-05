@@ -56,7 +56,13 @@ After that the scikit-learn implementation of the Decision tree basic usage will
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_07.ipynb)
 
-## Exercise 8
+## Hands on clustering exercise (Wendesday groups)
+Goal of the excercise is to practice clustering on task similar to first project.
+> [Jupyter Notebook](https://github.com/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_08_Hands_on_Clustering_Credit_Cards.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_08_Hands_on_Clustering_Credit_Cards.ipynb)
+
+## Exercise 8 
 Goal of the excercise is to learn how to use Scikit-learn library for a classification tasks and evaluate the performance of the proposed models.
 
 > [Jupyter Notebook](https://github.com/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_08.ipynb)
