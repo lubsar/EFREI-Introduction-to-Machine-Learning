@@ -91,6 +91,13 @@ Goal of the excercise is to learn how to save trained models and use selected ad
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_10.ipynb)
 
+## Exercise 11
+Goal of this excercise is to complete the hands-on experience of the classification task.
+
+> [Jupyter Notebook](https://github.com/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_11.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/EFREI-Introduction-to-Machine-Learning/blob/main/iml_11.ipynb)
+
 # 💡 Notes
 ## Cheat sheet for Pandas and Matplotlib/Seaborn
 
